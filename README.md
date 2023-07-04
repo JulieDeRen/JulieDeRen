@@ -11,6 +11,6 @@ Sur mon profil GitHub, vous trouverez une variété de projets qui reflètent me
 Je crois fermement à l'esprit de collaboration et à la contribution à la communauté open source. J'ai participé à plusieurs projets open source et j'ai apporté des améliorations significatives à des projets existants. Je suis également active sur Codepen et Stack Overflow, où j'aide d'autres développeurs en répondant à leurs questions et en partageant mes connaissances.
 
 ## Contact
-Si vous êtes intéressé(e) par l'un de mes projets, si vous souhaitez collaborer avec moi ou si vous avez simplement des questions, n'hésitez pas à me contacter à travers mon site web : JulieDeRen.com
+Si vous êtes intéressé(e) par l'un de mes projets, si vous souhaitez collaborer avec moi ou si vous avez simplement des questions, n'hésitez pas à me contacter à travers mon site web : [JulieDeRen.com](https://juliederen.com)
 
 Je suis enthousiaste à l'idée d'échanger avec vous et de partager notre passion pour la programmation !
